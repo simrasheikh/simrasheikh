@@ -8,8 +8,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simrasheikh)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrasheikh)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=simrasheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simrasheikh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simrasheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simrasheikh&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=simrasheikh)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
