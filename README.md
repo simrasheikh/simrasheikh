@@ -1,4 +1,4 @@
-![](https://github.com/simrasheikh/simrasheikh/blob/a2049e0b8750e67baa9c6244c8206f4a3addc63b/banner%20(1).png)
+![](https://github.com/simrasheikh/simrasheikh/blob/438af7abac53c602adf5b5be06bf801a5c88994c/banner%20(1)2.png)
 
 
 - 🌱 I’m currently learning Java 
